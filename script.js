@@ -5,7 +5,7 @@ const navMenu = document.querySelector("#nav-menu");
 const year = document.querySelector("#year");
 const contactForm = document.querySelector("#contactForm");
 const formStatus = document.querySelector("#formStatus");
-const contactEmail = "surajkure@example.com";
+const contactEmail = "surajkure668@gmail.com";
 
 const savedTheme = localStorage.getItem("theme");
 const prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
